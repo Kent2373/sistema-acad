@@ -16,6 +16,7 @@ header .sistema h1{
     color: #302681;
     margin-left: 10px;
     margin-top: 7px;
+    text-transform: uppercase;
 }
 main{
     margin: 10px;
@@ -24,4 +25,5 @@ main{
 h2{
     font-family: Arial;
     color: #060607;
+    text-transform: uppercase;
 }
