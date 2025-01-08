@@ -14,4 +14,6 @@ header{
 header .sistema h1{
     font-family: Arial;
     color: #302681;
+    margin-right: 10px;
+    margin-top: 20px;
 }
