@@ -19,7 +19,9 @@ header .sistema h1{
 }
 main{
     margin: 10px;
+    padding: 10px;
 }
 h2{
-    margin-top: 7px;
+    font-family: Arial;
+    color: #060607;
 }
