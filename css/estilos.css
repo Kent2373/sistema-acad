@@ -28,10 +28,11 @@ h2{
 
 }
 .login{
-    background-color: #808080;
+    background-color: #cecece;
     height: 230px;
     width: 400px;
     margin-top: 100px;
+    border: #b1b1b1;
 }
 form input{
     padding: 10px;
