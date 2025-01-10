@@ -37,6 +37,9 @@ h2{
     color: #1e1e20;
     margin-right: 40px;
 }
+form a{
+    color: #008cff;
+}
 form input{
     border: 1px solid #3a3a3a;
     border-radius: 5px;
