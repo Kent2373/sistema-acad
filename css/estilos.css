@@ -44,9 +44,6 @@ form input{
     outline: none;
     margin: 3px 0;
 }
-form a{
-    color: #rgb(0, 115, 247)
-}
 form .button{
     margin: 10px 10px;
     color: #ffffff;
