@@ -34,6 +34,11 @@ h2{
     margin-top: 100px;
 }
 form input{
-    width: 15px;
-    height: 30px;
+    padding: 10px;
+    border: 1px solid #3a3a3a;
+    border-radius: 5px;
+    font-size: 1rem;
+    resize: none;
+    outline: none;
+    margin: 3px 0;
 }
