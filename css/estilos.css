@@ -34,5 +34,6 @@ h2{
     margin-top: 100px;
 }
 form input{
-    
+    width: 15px;
+    height: 30px;
 }
