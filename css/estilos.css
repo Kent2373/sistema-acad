@@ -36,6 +36,7 @@ h2{
     border-radius: 5px;
     color: #1e1e20;
     margin-right: 200px;
+    display: flex;
 }
 form a{
     color: #008cff;
