@@ -28,8 +28,8 @@ main h2{
     background-color: #ebebeb;
     border: 2px solid #cdcdcd;
     border-radius: 5px;
-    padding: 50px;
-    margin: 50px;
+    width: 50px;
+    height: 50px;
 }
 form input{
     padding: 10px;
