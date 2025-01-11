@@ -26,9 +26,18 @@ main h2{
 .login{
     color: #1f2021;
     background-color: #ebebeb;
-    border: #cdcdcd;
+    border: 2px solid #cdcdcd;
     border-radius: 5px;
     padding: 50px;
     margin: 50px;
+}
+form input{
+    padding: 10px;
+    border: 1px solid #cdcdcd;
+    border-radius: 5px;
+    font-size: 1rem;
+    resize: none;
+    outline: none;
+    margin 3px 0;
 }
 
