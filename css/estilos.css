@@ -9,3 +9,8 @@ header{
     width: 100%;
     height: 50px;
 }
+header h1{
+    color: #1f61af;
+    margin-top: 10px;
+    margin-left: 7px;
+}
