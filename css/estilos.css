@@ -20,3 +20,7 @@ main{
     margin-left: 7px;
     display: flex;
 }
+main h2{
+    color: #1f2021;
+}
+
