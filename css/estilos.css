@@ -9,6 +9,7 @@ header{
     height: 50px;
     width: 100%;
     color: #1f61af;
+    display: flex;
 }
 header h1{
     margin-top: 15px;
