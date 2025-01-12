@@ -30,3 +30,12 @@ h2{
     width: 250px;
     height: 300px;
 }
+form input{
+    padding: 10px;
+    border: 1px solid #cbcbcb;
+    border-radius: 5px;
+    font-size: 1rem;
+    resize: none;
+    outline: none;
+    margin: 3px 0;
+}
