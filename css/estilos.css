@@ -53,24 +53,24 @@ form button{
     transition: background-color 0.3s;
     margin: 3px 0;
 }
-.texto {
+.botao-gov{
     position: relative;
     display: inline-block;
-    color: red;
+    color: #1f2021;
     font-size: 1rem;
     margin: 8px;
     margin-left: 50px;
 }
-.texto::before, .texto::after{
+.botao-gov::before, .botao-gov::after{
     content: "";
     position: absolute;
     top: 0.65em;
     width: 1em;
     height: 0.05em;
-    background-color: red;
+    background-color: #1f2021;
     left: -1.25em;
 }
-.texto::after{
+.botao-gov::after{
     left: initial;
     right: -1.25em;
 }
