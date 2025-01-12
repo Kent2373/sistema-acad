@@ -107,13 +107,13 @@ img{
     margin: 3px 0;
     margin-left: 6px;
 }
-.linha-completa {
+.linha-completa{
     display: flex;
     align-items: center;
     justify-content: center;
     width: 100%;
 }
-.linha-esquerda, .linha-direita {
+.linha-esquerda, .linha-direita{
     flex-grow: 1;
     border: none;
     border-top: 1px solid #ff0000;
