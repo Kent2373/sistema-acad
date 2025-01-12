@@ -39,3 +39,6 @@ form input{
     outline: none;
     margin: 3px 0;
 }
+.login a{
+    color: #5d9fb5;
+}
