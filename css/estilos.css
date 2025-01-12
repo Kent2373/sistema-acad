@@ -68,3 +68,6 @@ form button{
     transition: background-color 0.3s;
     margin: 3px 0;
 }
+img{
+    width: 30px;
+}
