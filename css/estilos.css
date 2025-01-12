@@ -74,6 +74,9 @@ img{
 .botoes{
     color: #1f2021;
 }
-.area-estudante h2{
+.area-estudante{
+    margin-left: 230px;
+}
+.Planilha{
     margin-left: 230px;
 }
