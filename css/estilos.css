@@ -24,4 +24,6 @@ h2{
     margin: 7px 7px;
     padding: 10px;
     border: 1px solid orange;
+    background-color: #f1f1f1;
+    border-radius: 5px;
 }
