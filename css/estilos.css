@@ -42,3 +42,14 @@ form input{
 .login a{
     color: #5d9fb5;
 }
+form button{
+    cursor: pointer;
+    padding: 10px 16px;
+    font-size: 1rem;
+    color: #FFF;
+    background-color: #1f61af;
+    border: 1px solid #13498a;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    margin: 3px 0;
+}
