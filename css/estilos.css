@@ -58,7 +58,7 @@ form button{
     font-size: 20px;
     color: #1f2021;
 }
-.botao-gov h4:before, .e-mais h4:after {
+.botao-gov h4:before, .botao-gov h4:after {
     content: ' ';
     position: absolute;
     width: 5%;
