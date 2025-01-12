@@ -42,3 +42,6 @@ form input{
 .login a{
     color: #5d9fb5;
 }
+form .button{
+    color: #fff;
+}
