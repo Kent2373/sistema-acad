@@ -110,4 +110,20 @@ img{
 h4{
     margin-left: 80px;
 }
-
+.linha-completa {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+.linha-esquerda, .linha-direita {
+    flex-grow: 1;
+    border: none;
+    border-top: 1px solid #000;
+    margin: 0;
+}
+  
+h4{
+    margin: 0 10px;
+}
+  
