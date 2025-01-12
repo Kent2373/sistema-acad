@@ -107,7 +107,7 @@ img{
     margin: 3px 0;
     margin-left: 6px;
 }
-.botao-gov h4::after {
+.ou::after{
     content: " ";
     background-color: thistle;
     display: block;
