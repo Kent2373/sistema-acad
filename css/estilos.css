@@ -108,11 +108,12 @@ img{
     margin-left: 6px;
 }
 h4{
-    margin-left: 200px;
+    margin-left: 80px;
 }
 .borda-esquerda{
     width: 35%;
     padding-top: 15px;
+    margin-top: 10px;
 }
 .borda-direita{
     width: 35%;
