@@ -111,7 +111,11 @@ img{
     width: 200px;
     align-content: center;
 }
-.borda-esquerda, .borda-direita{
+.borda-esquerda{
+    width: 35%;
+    padding-top: 15px;
+}
+.borda-direita{
     width: 35%;
     padding-top: 15px;
 }
