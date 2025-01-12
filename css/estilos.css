@@ -53,21 +53,24 @@ form button{
     transition: background-color 0.3s;
     margin: 3px 0;
 }
-.botao-gov{
-    text-align: center;
-    font-size: 20px;
-    color: #1f2021;
+.texto {
+    position: relative;
+    display: inline-block;
+    color: red;
+    font-size: 1rem;
+    margin: 8px;
+    margin-left: 50px;
 }
-.botao-gov h4:before, .botao-gov h4:after {
-    content: ' ';
+.texto::before, .texto::after{
+    content: "";
     position: absolute;
-    width: 5%;
-    border-top: 1px solid #1f2021;
-    margin-top: 1.4%;
+    top: 0.65em;
+    width: 1em;
+    height: 0.05em;
+    background-color: red;
+    left: -1.25em;
 }
-.botao-gov h4:before {
-    margin-left: -63px;
-}
-.botao-gov h4:after {
-    margin-left: 5px;
+.texto::after{
+    left: initial;
+    right: -1.25em;
 }
