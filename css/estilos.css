@@ -70,7 +70,7 @@ form button{
     margin-left: 7px;
 }
 img{
-    width: 40px;
+    width: 80px;
 }
 .botoes{
     color: #1f2021;
@@ -86,5 +86,12 @@ img{
 .area-estudante a{
     padding: 10px 20px;
     background-color: #6bb05d;
-    border: #447a39;
+    border: 1px solid #447a39;
+    border-radius: 5px;
+}
+.Planilhas a{
+    padding: 10px 20px;
+    background-color: #1f61af;
+    border: 1px solid #13498a;
+    border-radius: 5px;
 }
